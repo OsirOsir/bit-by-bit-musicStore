@@ -1,0 +1,13 @@
+DOM - Document Object Model
+accessing elements, modifying elements and creating elements.
+
+create elements - .createElement()
+variable_name.innerHTML = ``;
+style
+appendChild()
+closures
+events - change the state of your application
+click, submit, key up,
+.addEventListener("<event_type", ()=> {
+
+})
